@@ -1,12 +1,7 @@
 <h1 align="center">Hi, I'm Richard Gaeta</h1>
 <h3 align="center">A developer focused on value-centric development</h3>
-
-<h3 align="left">If you want to get to know me more:</h3>
 <p>Currently I'm looking for work to enhance my skillset as a full-stack developer and contribute to open source projects. I enjoy creating sustainable value-driven software that solves real-world problems.</p>
 <p>As a hobby I enjoy making video games using the Godot Engine</p>
-<p align="left">
-  <a href="https://www.richardgaeta.com" target="_blank">richardgaeta.com</a>
-</p>
 <details>
   <summary>Languages and Tools:</summary>
   <div>
